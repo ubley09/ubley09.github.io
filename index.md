@@ -51,7 +51,7 @@ We will retain User Provided data for as long as you use the Application and for
  
 
 Children
-We do not use the Application to knowingly solicit data from or market to children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us at privacy@applicationsite.com. We will delete such information from our files within a reasonable time.
+We do not use the Application to knowingly solicit data from or market to children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us at ubley19@gmail.com. We will delete such information from our files within a reasonable time.
 
  
 Security
@@ -70,4 +70,4 @@ By using the Application, you are consenting to our processing of your informati
  
 
 Contact us
-If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at privacy@applicationsite.com.
+If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at ubley19@gmail.com.
